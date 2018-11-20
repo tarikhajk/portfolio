@@ -1,0 +1,75 @@
+body {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-weight: 400;
+	padding: 0px 20px 0px 20px;
+	max-width: 1000px;
+	width: 90%;
+	border: 20px solid #bdc3c7;
+	margin: 20px auto auto auto;
+
+}
+
+h1 {
+	color: #2c3e50;
+	font-size: 13.0em;
+	text-align: center;
+	border: 20px solid pink;
+	margin: 20px auto 40px auto;
+	padding: 20px;
+	height: auto;
+	width: auto;
+}  
+
+td img {
+	border: 20px solid pink;
+	display: inline;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+tr {
+	padding: 0px;
+}
+
+tr td:nth-of-type(1){
+	padding: 0px;
+}
+
+tr td:nth-of-type(2) {
+    color: #3498db;
+    line-height: 1.4;
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 0.25rem;
+    width: 720px;
+    padding: 0px 0px 0px 20px;
+    font-size: 3em;
+}
+
+#paragraph{
+	font-size: 1.5em;
+	line-height: 1.5;
+	text-align: justify;
+	vertical-align: top;
+	margin: auto;
+}
+
+hr {
+    background-color: #eee;
+    border: 0 none;
+    color: #eee;
+    height: 2px;
+}
+
+#links {
+	text-align: center;
+}
+
+a img {
+	width: 50px;
+	margin: 1% 3% 1% 3%;
+}
+
+
