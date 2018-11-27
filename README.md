@@ -3,7 +3,7 @@ A landing page to showcase my web development skills and lead you into exploring
 
 ## Tech/framework used
 <b>Built with</b>
-- HTML5
+- HTML
 - CSS3
 - (Soon) [Bootstrap](https://getbootstrap.com/)
 
