@@ -5,7 +5,7 @@ A landing page to showcase my web development skills and lead you into exploring
 <b>Built with</b>
 - HTML
 - CSS3
-- (Soon) [Bootstrap](https://getbootstrap.com/)
+- (Soon) [Bootstrap 4](https://getbootstrap.com/)
 
 ## How to use?
 Simply access my [website](www.tarik.space) to view!
